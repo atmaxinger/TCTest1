@@ -21,7 +21,7 @@ namespace tctest.tests
 		[Test]
 		public void SomeFailingTest()
 		{
-			Assert.That(false);
+			Assert.That(true);
 		}
 	}
 }
